@@ -22,7 +22,6 @@ I'm an **M2 student in Data and Economics** at **CY Cergy Paris Université**, i
 My little toolbox is Python, econometrics and data visualisation: I clean the data, build the model, test the hypothesis and find the story hiding behind the numbers.
 
 🌱 learning more about causal inference and reproducible research
-🌙 based in Île de France
 
 <p align="center">˚₊‧ 🌿 ‧₊˚ 🍃 ˚₊‧ 🌱 ‧₊˚ 🍃 ˚₊‧ 🌿 ‧₊˚</p>
 
